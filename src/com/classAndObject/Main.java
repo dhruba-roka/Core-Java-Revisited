@@ -7,7 +7,7 @@ public class Main {
         box.showDimension();
 
         box = new Box();
-        box.setDimension(3,4,5);
+        //box.setDimension(3,4,5);
         box.showDimension();
     }
 }
